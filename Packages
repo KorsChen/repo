@@ -1,0 +1,17 @@
+Package: com.orz.sagent
+Version: 1.1.11071940-1
+Architecture: iphoneos-arm
+Maintainer: orz
+Installed-Size: 12960
+Depends: dpkg, firmware (>= 11.0)
+Filename: debs/com.orz.sagent_1.1.11071940-1_iphoneos-arm.deb
+Size: 3054280
+MD5sum: 92507d111e537fb7cfd6cfef26cc0c8b
+SHA1: 0e18def2d94f97970c70c658d2e72e09b2ed96e2
+SHA256: d97fe683c51c0cb1b1358b25424644d9a1d48915547b5e80336eef56717e6892
+Section: System
+Description: Business Control Center
+Tag: compatible::13.0-15.7
+Author: orz
+Name: SAgent
+
